@@ -1,7 +1,5 @@
 # Expense Tracker Project - Code Clause Internship Task 3
 
-![Expense Tracker Screenshot](screenshot.png)
-
 Welcome to the Expense Tracker project developed as part of Task 3 during the Code Clause internship. This project is a simple web application that allows users to track their expenses and manage their finances effectively. It has been built using HTML, JavaScript, and CSS.
 
 ## Features
