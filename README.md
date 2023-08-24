@@ -18,11 +18,8 @@ Welcome to the Expense Tracker project developed as part of Task 3 during the Co
 
 1. **Add an Expense:** Click on the "Add Expense" button and fill in the required details in the provided form. Click "Add Expense" to add it to your expense list.
 
-2. **View Expenses:** Scroll down to see the list of added expenses. Each expense entry displays the name, amount, and date of the expense.
+2. **Total Calculation:** The total amount of all expenses is displayed at the bottom of the list for a quick overview of your overall expenses.
 
-3. **Total Calculation:** The total amount of all expenses is displayed at the bottom of the list for a quick overview of your overall expenses.
-
-4. **Date Filtering:** To filter expenses by date, use the date range picker provided above the expense list. Select the start and end dates and click "Apply" to view expenses within that range.
 
 ## Getting Started
 
